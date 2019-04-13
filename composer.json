@@ -1,0 +1,30 @@
+{
+    "name": "axelrindle/larecipe-emojify",
+    "description": "Replaces emoji shortcodes with native unicode emojis.",
+    "version": "1.0.0",
+    "keywords": [
+        "larecipe",
+        "emoji"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Axelrindle\\Emojify\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Axelrindle\\Emojify\\AssetServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
