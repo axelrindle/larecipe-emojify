@@ -24,6 +24,10 @@ You can insert [emoji shortcodes](https://www.webfx.com/tools/emoji-cheat-sheet/
 
 The unicode symbols are wrapped in a `span` element with the `emoji` class. Use this in your CSS code to apply a custom emoji/unicode font (for example [twemoji](https://github.com/eosrei/twemoji-color-font)).
 
+## Screenshot
+
+![Screenshot](screenshot.png)
+
 ## License
 
 [MIT](LICENSE)
