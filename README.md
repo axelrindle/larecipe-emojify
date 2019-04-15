@@ -1,5 +1,5 @@
 <h6 align="center">
-    <img src="https://larecipe.binarytorch.com.my/images/logo.svg"/>
+    <img src="logo.png">
 </h6>
 <h2 align="center">
     larecipe-emojify
