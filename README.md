@@ -1,5 +1,5 @@
 <h6 align="center">
-    <img src="logo.png">
+    <img src="https://github.com/axelrindle/larecipe-emojify/blob/master/logo.png">
 </h6>
 <h2 align="center">
     larecipe-emojify
@@ -26,7 +26,7 @@ The unicode symbols are wrapped in a `span` element with the `emoji` class. Use 
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/axelrindle/larecipe-emojify/blob/master/screenshot.png)
 
 ## License
 
