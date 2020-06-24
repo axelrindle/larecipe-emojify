@@ -8,7 +8,8 @@
     Replaces emoji shortcodes with native unicode emojis.
 </h6>
 
-
+## About
+A package for [LaRecipe](https://github.com/saleem-hadad/larecipe) which adds support for emoji shortcodes.
 
 ## Installation
 
