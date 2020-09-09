@@ -1,5 +1,5 @@
 <h6 align="center">
-    <img src="https://github.com/axelrindle/larecipe-emojify/blob/master/logo.png">
+    <img src="https://raw.githubusercontent.com/axelrindle/larecipe-emojify/master/logo.png">
 </h6>
 <h2 align="center">
     larecipe-emojify
